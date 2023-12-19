@@ -1,0 +1,25 @@
+
+.sec{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    /* background-color:cz; */
+}
+.start{
+    height: auto;
+    width: 100%;
+
+}
+
+.card1{
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    width: auto;
+    margin-left: 0px;
+    flex-wrap: wrap;
+}
